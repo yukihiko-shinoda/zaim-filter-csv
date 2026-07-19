@@ -1,6 +1,6 @@
 [dependency-groups]
 dev = [
-    "invokelint[lint,lint-deep,style,test]>=0.20.0",
+    "invokelint[lint,lint-deep,style,test]>=0.20.1",
     "pyvelocity",
 ]
 
